@@ -6,23 +6,23 @@
 ## **Overview and Origin**
 
 
-#### What is the name of the company?
+#### **What is the name of the company?**
 The name of the company is Stavvy, based out of Boston, MA.  
 
 
-#### When was the company incorporated?
+#### **When was the company incorporated?**
 Stavvy was founded and incorporated in 2018.	
 
 
-#### Who are the founders of the company?
+#### **Who are the founders of the company?**
 Kosta Ligris and Josh Feinblum, who met while studying at MIT Sloan School of Management in Cambridge, MA.
 
 
-#### How did the idea for the company (or project) come about? 
+#### **How did the idea for the company (or project) come about?** 
 Both Josh and Kosta were veterans of the mortgage industry and they both agreed that the mortgage closing process was much too difficult.  It involved too much physical paperwork, and physical travel. This “old school” approach had worked for decades, but as pipelines increased and complexity in the mortgage industry increased, it was becoming unsustainable.  It added significant cost per loan and customer expectations had been changing around technology and our increasingly online world.  A digital approach to mortgage closing was needed.
 
 
-#### How is the company funded? How much funding have they received?
+#### **How is the company funded? How much funding have they received?**
 Stavvy has been funded by venture capital.  They raised $40 million in May of 2021 in a Series A round.  This venture capital financing round was the largest in the history of New England Fintech and Prop Tech. 1  
 
 
