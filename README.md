@@ -1,4 +1,4 @@
-# U-of-M-Fintech---Classwork
+# U-of-M-Fintech-Challenge-1
 
 # **FINTECH CASE STUDY - Stavvy**
 
